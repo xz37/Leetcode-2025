@@ -8,7 +8,13 @@
 [Misc](#misc)
 
 
-## linkedList
+## Array
 
 
 - 0001 - [两数之和](https://leetcode.cn/problems/two-sum/description/) - [Java](java/src/main/java/q0001/Solution.java)
+
+
+## linkedlist
+
+
+- 0724 - [寻找数组的中心下标](https://leetcode.cn/problems/find-pivot-index/description/) - [Java](java/src/main/java/q0724/Solution.java)
