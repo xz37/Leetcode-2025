@@ -16,6 +16,9 @@
 
 - 0027 - [移除元素](https://leetcode.cn/problems/remove-element/description/) - [Java](java/src/main/java/q0027/Solution.java)
 
+- 
+- 0704 - [二分查找](https://leetcode.cn/problems/binary-search/description/) - [Java](java/src/main/java/q0704/Solution.java)
+
 ## linkedlist
 
 
