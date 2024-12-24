@@ -16,8 +16,11 @@
 
 - 0027 - [移除元素](https://leetcode.cn/problems/remove-element/description/) - [Java](java/src/main/java/q0027/Solution.java)
 
-- 
+
 - 0704 - [二分查找](https://leetcode.cn/problems/binary-search/description/) - [Java](java/src/main/java/q0704/Solution.java)
+
+
+- 0977 - [有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/description/) - [Java](java/src/main/java/0977/Solution.java)
 
 ## linkedlist
 
