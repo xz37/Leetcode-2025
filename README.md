@@ -28,6 +28,8 @@
   用两个指针滑动窗口：如果当前窗口的 `sum>=target` ，更新长度，右移 `left`，更新 `sum`；否则右移 `right`，更新 `sum`
 
 
+- 1356 - [根据数字二进制下 1 的数目排序](https://leetcode.cn/problems/sort-integers-by-the-number-of-1-bits/description/) - [Java](java/src/main/java/q1356/Solution.java)
+
 ## linkedlist
 
 
