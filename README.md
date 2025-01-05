@@ -39,3 +39,7 @@
 ## String
 
 - 0344 - [反转字符串](https://leetcode.cn/problems/reverse-string/description/) - [Java](java/src/main/java/q0344/Solution.java)
+
+
+- 0925 - [长按键入](https://leetcode.cn/problems/long-pressed-name/description/) - [Java](java/src/main/java/q0925/Solution.java)
+
