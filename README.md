@@ -30,6 +30,10 @@
 
 - 1356 - [根据数字二进制下 1 的数目排序](https://leetcode.cn/problems/sort-integers-by-the-number-of-1-bits/description/) - [Java](java/src/main/java/q1356/Solution.java)
 
+
+- 1365 - [有多少小于当前数字的数字](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/description/) - [Java](java/src/main/java/q1365/Solution.java)
+
+
 ## linkedlist
 
 
