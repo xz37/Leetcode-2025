@@ -34,6 +34,10 @@
 - 1365 - [有多少小于当前数字的数字](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/description/) - [Java](java/src/main/java/q1365/Solution.java)
 
 
+- 0941 - [有效的山脉数组](https://leetcode.cn/problems/valid-mountain-array/) - [Java](java/src/main/java/q0941/Solution.java)
+
+  用 2 个 `while`，第一个 `while` 找到山顶，第二个 `while` 找到山脚，判断山顶山脚的位置是否合理
+
 ## linkedlist
 
 
