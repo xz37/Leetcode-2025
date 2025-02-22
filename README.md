@@ -38,6 +38,9 @@
 
   用 2 个 `while`，第一个 `while` 找到山顶，第二个 `while` 找到山脚，判断山顶山脚的位置是否合理
 
+- 01207 - [独一无二的出现次数](https://leetcode.cn/problems/unique-number-of-occurrences/description/) - [Java](java/src/main/java/q1207/Solution.java)
+
+
 ## linkedlist
 
 
