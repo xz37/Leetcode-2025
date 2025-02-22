@@ -56,3 +56,8 @@
 
 
 - 0844 - [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/description/) - [Java](java/src/main/java/q0844/Solution.java)
+
+- 0459 - [重复的子字符串](https://leetcode.cn/problems/repeated-substring-pattern/) - [Java](java/src/main/java/q0459/Solution.java)
+
+  重复一下字符串，掐头去尾，新字符串如果还包含原来的字符串，说明愿字符串是重复的
+
