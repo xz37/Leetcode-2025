@@ -38,7 +38,12 @@
 
   用 2 个 `while`，第一个 `while` 找到山顶，第二个 `while` 找到山脚，判断山顶山脚的位置是否合理
 
-- 01207 - [独一无二的出现次数](https://leetcode.cn/problems/unique-number-of-occurrences/description/) - [Java](java/src/main/java/q1207/Solution.java)
+- 1207 - [独一无二的出现次数](https://leetcode.cn/problems/unique-number-of-occurrences/description/) - [Java](java/src/main/java/q1207/Solution.java)
+
+
+- 0283 - [移动零](https://leetcode.cn/problems/move-zeroes/description/) - [Java](java/src/main/java/q0283/Solution.java)
+
+  一次遍历：快指针指向遍历的数，慢指针指向整理后最后一个非零的数
 
 
 ## linkedlist
@@ -56,6 +61,7 @@
 
 
 - 0844 - [比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/description/) - [Java](java/src/main/java/q0844/Solution.java)
+
 
 - 0459 - [重复的子字符串](https://leetcode.cn/problems/repeated-substring-pattern/) - [Java](java/src/main/java/q0459/Solution.java)
 
