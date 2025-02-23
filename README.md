@@ -45,6 +45,9 @@
 
   一次遍历：快指针指向遍历的数，慢指针指向整理后最后一个非零的数
 
+- 0189 - [旋转数组](https://leetcode.cn/problems/rotate-array/description/) - [Java](java/src/main/java/q0189/Solution.java)
+
+  只用空间O1比较难：比较巧的思路是把整个数组翻转后在分别翻转
 
 ## linkedlist
 
