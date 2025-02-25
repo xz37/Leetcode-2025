@@ -49,6 +49,9 @@
 
   只用空间O1比较难：比较巧的思路是把整个数组翻转后在分别翻转
 
+- 0922 - [按奇偶排序数组 II](https://leetcode.cn/problems/sort-array-by-parity-ii/) - [Java](java/src/main/java/q0922/Solution.java)
+
+
 ## linkedlist
 
 
